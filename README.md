@@ -37,4 +37,4 @@ O compilador processou o arquivo de teste `teste_sucesso_decl.lx` com sucesso, c
 
 ---
 
-**[✅ CLIQUE AQUI PARA VER A COMPROVAÇÃO DE SUCESSO EM TELA CHEIA](./RELATÓRIO/Comprovação.png)**
+**[✅ CLIQUE AQUI PARA VER A COMPROVAÇÃO DE SUCESSO EM TELA CHEIA](./RELATORIO/Comprovacao.png)**
