@@ -33,5 +33,4 @@ pip install antlr4-python3-runtime
 
 5. Comprovação da Funcionalidade
 O compilador processou o arquivo de teste com sucesso na fase Semântica:
-
-[Inclua a imagem do seu terminal mostrando a mensagem: "✅ CÓDIGO CORRETO: Compilação concluída com sucesso." (referenciando o arquivo na pasta RELATORIO/)]
+![Compilação Bem-Sucedida - Linguagem X](RELATORIO/Comprovação.png)
