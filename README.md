@@ -31,6 +31,10 @@ Python 3
 
 pip install antlr4-python3-runtime
 
-5. Comprovação da Funcionalidade
-O compilador processou o arquivo de teste com sucesso na fase Semântica:
-![Compilação Bem-Sucedida - Linguagem X](RELATORIO/Comprovação.png)
+## 5. Comprovação da Funcionalidade
+
+O compilador processou o arquivo de teste `teste_sucesso_decl.lx` com sucesso, confirmando que as análises Léxica, Sintática e Semântica (verificação de declaração) foram concluídas sem erros:
+
+---
+
+**[✅ CLIQUE AQUI PARA VER A COMPROVAÇÃO DE SUCESSO EM TELA CHEIA](./RELATORIO/Comprovação.png)**
