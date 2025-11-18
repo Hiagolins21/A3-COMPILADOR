@@ -1,4 +1,4 @@
-# 💻 Projeto Compilador: Linguagem X (A3 - [Seu Período/Disciplina])
+# 💻 Projeto Compilador: Linguagem X
 
 ## 1. Introdução
 Desenvolvimento de um compilador para a Linguagem X, uma DSL (Domain-Specific Language) imperativa projetada para cumprir todos os requisitos obrigatórios da avaliação. O compilador realiza as etapas de Análise Léxica, Sintática e Semântica (verificação de declaração de variáveis).
