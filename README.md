@@ -33,6 +33,5 @@ pip install antlr4-python3-runtime
 
 5. Comprovação da Funcionalidade
 O compilador processou o arquivo de teste com sucesso na fase Semântica:
-<img width="1103" height="146" alt="image" src="https://github.com/user-attachments/assets/efed8748-ae51-4bc9-8bd2-ff0188e26d72" />
 
 [Inclua a imagem do seu terminal mostrando a mensagem: "✅ CÓDIGO CORRETO: Compilação concluída com sucesso." (referenciando o arquivo na pasta RELATORIO/)]
